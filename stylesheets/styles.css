@@ -1,0 +1,42 @@
+body {
+    background: url('../images/drawing.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:white;
+    background-color:#333;
+    font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+}
+
+#nav-logo {
+	height: 300%;
+
+}
+
+#nav-logo:hover {
+  height:500%;
+}
+
+p {
+  color:blue;
+}
+
+.jumbotron {
+  background: transparent;
+}
+
+.navbar {
+  background: transparent;
+}
+
+.nav.navbar-nav li a,  .nav.navbar-nav .navbar-text {
+  color:white;
+
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
